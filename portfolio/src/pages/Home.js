@@ -8,7 +8,7 @@ const Home = () => {
       {/* Intro Section */}
       <section className="intro-section">
         <div className="cover-image">
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dportfolio&psig=AOvVaw0lzAyJTBemNnNgnsAO265t&ust=1726275021281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjg1OTZvogDFQAAAAAdAAAAABAE" alt="Cover" />
+          <img src="portfolio\public\assets\images\background.jpeg" alt="Cover" />
         </div>
         <div className="intro-content">
           <h1 className="project-name">The Coding Odyssey of Dennis Makaka</h1>
@@ -50,14 +50,14 @@ const Home = () => {
             </p>
           </div>
           <div className="feature">
-            <img src="/path/to/ui-ux-image.jpg" alt="Modern UI/UX" />
+            <img src="portfolio/public/assets/images/modern ui.jpeg" alt="Modern UI/UX" />
             <h3>Modern UI/UX Design</h3>
             <p>
               Discover the modern design and user experience principles that make the portfolio visually appealing and user-friendly, with intuitive navigation and aesthetics.
             </p>
           </div>
           <div className="feature">
-            <img src="/path/to/responsive-design-image.jpg" alt="Responsive Design" />
+            <img src="portfolio\public\assets\images\Responsive design.jpeg" alt="Responsive Design" />
             <h3>Responsive Design</h3>
             <p>
               See how the portfolio adapts seamlessly to different devices, ensuring a consistent and pleasant user experience across desktops, tablets, and mobile phones.
